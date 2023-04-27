@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.105bdb1f.css",
-    "main.js": "/static/js/main.a2c8d94a.js",
+    "main.css": "/static/css/main.14859fe8.css",
+    "main.js": "/static/js/main.43ae644d.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
-    "static/media/video.mp4": "/static/media/video.48c2947d58fdb973bd97.mp4",
+    "static/media/fantasy.mp4": "/static/media/fantasy.c35d1274e0ae3f5ba44f.mp4",
     "static/media/grammy.jpg": "/static/media/grammy.0e7ce2bb23d35776488e.jpg",
     "static/media/tipplo.jpg": "/static/media/tipplo.eee8b2741b19bd74aef0.jpg",
     "static/media/sh.jpg": "/static/media/sh.6112d67f08d425d56dca.jpg",
@@ -20,15 +20,19 @@
     "static/media/react.png": "/static/media/react.0ed27b3160ea14a785d5.png",
     "static/media/iab.jpg": "/static/media/iab.b5378bc6661b069ffa82.jpg",
     "static/media/portfolio.jpg": "/static/media/portfolio.258eefa0058ad003d143.jpg",
+    "static/media/petlink.jpg": "/static/media/petlink.73966818a68bf09ea983.jpg",
     "static/media/logo_bw.png": "/static/media/logo_bw.aab6cde2474dcbf12f07.png",
+    "static/media/restapicountry.jpg": "/static/media/restapicountry.91d0537213e4f5329935.jpg",
     "static/media/sass.jpg": "/static/media/sass.3388d1ab436bf9d4c3d6.jpg",
+    "static/media/talkitalk.jpg": "/static/media/talkitalk.2547f8bd1691d5afa81e.jpg",
+    "static/media/devtalk.jpg": "/static/media/devtalk.fe0d2656ae61a70de511.jpg",
     "index.html": "/index.html",
-    "main.105bdb1f.css.map": "/static/css/main.105bdb1f.css.map",
-    "main.a2c8d94a.js.map": "/static/js/main.a2c8d94a.js.map",
+    "main.14859fe8.css.map": "/static/css/main.14859fe8.css.map",
+    "main.43ae644d.js.map": "/static/js/main.43ae644d.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.105bdb1f.css",
-    "static/js/main.a2c8d94a.js"
+    "static/css/main.14859fe8.css",
+    "static/js/main.43ae644d.js"
   ]
 }
